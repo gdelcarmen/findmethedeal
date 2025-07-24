@@ -1,0 +1,6 @@
+openai>=1.2.0
+langchain>=0.1.0
+llama_index>=0.10.0
+spacy>=3.7.0
+requests>=2.31.0
+python-dotenv>=1.0.0
